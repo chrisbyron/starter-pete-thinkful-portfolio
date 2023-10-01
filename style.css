@@ -1,6 +1,28 @@
 /* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
+.group {
+  display: flex;
+  flex-direction: row; /* or column */
+}
+
+.item {
+  flex: 1;
+  margin: 10px;
+}
+
+.item-center {
+  flex: 1;
+  margin: 10px;
+  text-align: center;
+}
+
+.item-left {
+  flex: 1;
+  margin: 10px;
+  text-align: left;
+}
+
 body {
   background-color: #eae2b7;
   color: #003049;
