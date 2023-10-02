@@ -1,2 +1,3 @@
 # starter-pete-thinkful-portfolio
-This is the re-designed portfolio for Pete Thinkful implementing the flexbox approach.
+This is a re-vamp of Pete Thinkful's artist portfolio.
+It has been updated based on flexbox principles with minor styling tweaks to font size where appropriate.
